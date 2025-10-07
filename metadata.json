@@ -1,0 +1,5 @@
+{
+  "name": "Insurance Claim Appeals Tool",
+  "description": "A guided, multi-step tool to help healthcare providers generate professional and effective insurance claim appeal letters using AI.",
+  "requestFramePermissions": []
+}
